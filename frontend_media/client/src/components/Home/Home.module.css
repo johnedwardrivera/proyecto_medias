@@ -1,0 +1,32 @@
+h4 {
+  font-family: "Quintessential", cursive;
+}
+p {
+  font-family: "Quintessential", cursive;
+}
+.test :hover {
+  transform: scale(1.2);
+  transition: all 0.3s ease-out;
+}
+ 
+h5{
+    font-family: "Quintessential", cursive;
+} 
+.footer_area{
+    position: relative;
+    z-index: 1;
+    overflow: hidden; 
+    padding: 60px;
+} 
+.footer_area .row {
+    margin-left: -25px;
+    margin-right: -25px;
+  } 
+.single{
+    position: relative;
+    z-index: 1;
+  }
+.social{
+    border-radius: 50%;
+   
+}
